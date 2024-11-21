@@ -54,7 +54,7 @@ To run `prepare_package.dart` locally:
 - If you're running into `gsutil` permission issues, check with @Hixie to make sure
   you have the right push permissions.
 
-### Editing a recipe
+### Editing recipe
 
 Flutter has several recipes depending on the test. The recipes share common
 actions through `recipe_modules`. Searching the builder config in [infra](https://flutter.googlesource.com/infra/+/refs/heads/main)
